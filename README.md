@@ -1,0 +1,1 @@
+# SerilogElastic_Medium
